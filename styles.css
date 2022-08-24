@@ -163,7 +163,6 @@ footer {
     url(./assets/desktop/image-footer.jpg); /* The least supported option. */
   background-size: cover;
   height: 308px;
-  width: 100vw;
 }
 
 .footer-txt-head {
