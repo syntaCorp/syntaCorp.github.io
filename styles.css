@@ -64,15 +64,24 @@ img {
   margin-top: 0;
   margin-bottom: 0;
 }
+/* 
+font-family: 'Red Hat Display';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 26px;
+
+*/
 a {
   text-decoration: none;
   color: #fafafa;
-  font-weight: 600;
-  font-size: 1.5em;
+  font-weight: 900;
   border-radius: 2em;
   background-color: #87879d;
   padding: 0.6em 0.9em;
   margin-top: 1em;
+  line-height: 26px;
+  font-size: 16px;
 }
 p {
   font-size: 1em;
